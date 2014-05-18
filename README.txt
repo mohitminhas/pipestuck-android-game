@@ -45,7 +45,7 @@ Go to Apps on your mobile and see PipeStuck. Open it and you're good to go.
 1. See the app working on youtube link: http://youtu.be/hNPnkqJVWVA
 
 ******************************************************************************
-2. Or, you may download the complete Android Bundle from http://developer.android.com/sdk/index.html which will inlcude eclipse, and Android SDK along with adb.
+2. Or, you may download the complete Android Bundle from http://developer.android.com/sdk/index.html which will include eclipse, and Android SDK along with adb.
 a. Unzip the package and open eclipse.
 b. See Window in toolbar and locate the path Window->SDK manager.
 c. Install at least API 15 and API 8.
