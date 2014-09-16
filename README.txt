@@ -7,9 +7,9 @@ Tharun Kumar reddy
 
 //
 ******************************************************************************
-#The application has PipeStuck.apk has the final deployed package, with the package name com.bitspilani.PipeStuck
+PipeStuck.apk has the final deployed package.
 
-Please, first visit Youtube link http://youtu.be/hNPnkqJVWVA , and switch to highest quality(720p) in the youtube video setting.
+Please visit the youtube link http://youtu.be/hNPnkqJVWVA to see the app working.
 
 ******************************************************************************
 -------------------------------------------------------------------------------------
